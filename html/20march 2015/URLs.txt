@@ -1,0 +1,36 @@
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/investments.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/change-password.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/dashboard.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/edit-investor-profile.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/edit-listing-partner.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/edit-property-profile.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/investments.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/investments-details.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/investor-invest-details.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/investors-profile.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/listingpartner-profile.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/loginregister.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/propertydetails.html
+http://webdesign4uk.co.uk/SDSSITES/Groupfund/thank%20you.html
+
+
+Page Flow
+
+Investor Section:
+1.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/loginregister.html
+2.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/investors-profile.html
+3.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/edit-investor-profile.html
+4.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/change-password.html
+5.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/investor-invest-details.html
+6.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/investments.html
+7.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/investments-details.html
+
+Listing Partner Section:
+1.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/loginregister.html
+2.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/listingpartner-profile.html
+3.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/change-password.html
+5.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/edit-listing-partner.html
+5.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/edit-property-profile.html
+6.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/thank%20you.html
+7.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/investments.html
+8.   http://webdesign4uk.co.uk/SDSSITES/Groupfund/propertydetails.html

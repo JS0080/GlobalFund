@@ -1,0 +1,1068 @@
+
+body {
+    background-color: rgb(61, 61, 61);
+}
+.page-header.navbar {
+    background-color: rgb(31, 31, 31);
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle:hover {
+    background-color: rgb(51, 51, 51);
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle > i {
+    color: rgb(153, 153, 153);
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle .badge.badge-default {
+    background-color: rgb(214, 70, 53);
+    color: rgb(255, 255, 255);
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown.open .dropdown-toggle {
+    background-color: rgb(51, 51, 51);
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle {
+    background-color: rgb(21, 21, 21);
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle .username {
+    color: rgb(153, 153, 153);
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle > i {
+    color: rgb(153, 153, 153);
+}
+.page-header.navbar .search-form {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(21, 21, 21);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-header.navbar .search-form:hover {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(51, 51, 51);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-header.navbar .search-form .input-group .form-control {
+    color: rgb(153, 153, 153);
+}
+.page-header.navbar .search-form .input-group .form-control::-moz-placeholder {
+    color: rgb(150, 150, 150);
+    opacity: 1;
+}
+.page-header.navbar .search-form .input-group .input-group-btn .btn.submit > i {
+    color: rgb(153, 153, 153);
+}
+.page-header.navbar .search-form.open {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(51, 51, 51);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-header.navbar .menu-toggler {
+    background-image: url("../../img/sidebar_toggler_icon_default.png");
+}
+.page-header.navbar {
+}
+.page-header.navbar .hor-menu .navbar-nav {
+}
+.page-header.navbar .hor-menu .navbar-nav > li.mega-menu-dropdown > .dropdown-menu {
+    box-shadow: 5px 5px rgba(51, 51, 51, 0.2);
+}
+.page-header.navbar .hor-menu .navbar-nav > li.mega-menu-dropdown > .dropdown-menu .mega-menu-content .mega-menu-submenu {
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: rgb(64, 64, 64);
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: solid;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 1px;
+}
+.page-header.navbar .hor-menu .navbar-nav > li.mega-menu-dropdown > .dropdown-menu .mega-menu-content .mega-menu-submenu li > h3 {
+    color: rgb(166, 166, 166);
+}
+.page-header.navbar .hor-menu .navbar-nav > li > a {
+    color: rgb(153, 153, 153);
+}
+.page-header.navbar .hor-menu .navbar-nav > li.open > a, .page-header.navbar .hor-menu .navbar-nav > li > a:hover, .page-header.navbar .hor-menu .navbar-nav > li > a:focus {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(51, 51, 51);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(153, 153, 153);
+}
+.page-header.navbar .hor-menu .navbar-nav > li.active > a, .page-header.navbar .hor-menu .navbar-nav > li.active > a:hover, .page-header.navbar .hor-menu .navbar-nav > li.current > a, .page-header.navbar .hor-menu .navbar-nav > li.current > a:hover {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(214, 70, 53);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(241, 241, 241);
+}
+.page-header.navbar .hor-menu .navbar-nav > li.active .selected, .page-header.navbar .hor-menu .navbar-nav > li.current .selected {
+    border-top-color: rgb(214, 70, 53);
+    border-top-style: solid;
+    border-top-width: 6px;
+}
+.page-header.navbar .hor-menu .navbar-nav > li .dropdown-menu {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(51, 51, 51);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    box-shadow: 5px 5px rgba(51, 51, 51, 0.2);
+}
+.page-header.navbar .hor-menu .navbar-nav > li .dropdown-menu li > a {
+    color: rgb(153, 153, 153);
+}
+.page-header.navbar .hor-menu .navbar-nav > li .dropdown-menu li > a:hover {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(214, 70, 53);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(241, 241, 241);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav {
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.mega-menu-dropdown > .dropdown-menu {
+    box-shadow: 5px 5px rgba(91, 91, 91, 0.2);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.mega-menu-dropdown > .dropdown-menu .mega-menu-content .mega-menu-submenu {
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: rgb(238, 238, 238);
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: solid;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 1px;
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.mega-menu-dropdown > .dropdown-menu .mega-menu-content .mega-menu-submenu li h3 {
+    color: rgb(102, 102, 102);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.mega-menu-dropdown > .dropdown-menu .mega-menu-content .mega-menu-submenu li a {
+    color: rgb(119, 119, 119);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.mega-menu-dropdown > .dropdown-menu .mega-menu-content .mega-menu-submenu:last-child {
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: none;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 0;
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li > a {
+    color: rgb(153, 153, 153);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li > a:hover, .page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li > a:focus {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(51, 51, 51);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(153, 153, 153);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.open > a {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(254, 254, 254);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(119, 119, 119);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.open > a:hover, .page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.open > a:focus {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(254, 254, 254);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(119, 119, 119);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.open > a[data-hover="dropdown"] {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(254, 254, 254);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(119, 119, 119);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.open > a[data-hover="dropdown"]:hover, .page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.open > a[data-hover="dropdown"]:focus {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(254, 254, 254);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(119, 119, 119);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.active > a, .page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.active > a:hover, .page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.current > a, .page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.current > a:hover {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(214, 70, 53);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(241, 241, 241);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.active .selected, .page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li.current .selected {
+    border-top-color: rgb(214, 70, 53);
+    border-top-style: solid;
+    border-top-width: 6px;
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li .dropdown-menu {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(254, 254, 254);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    box-shadow: 5px 5px rgba(91, 91, 91, 0.2);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li .dropdown-menu li > a {
+    color: rgb(119, 119, 119);
+}
+.page-header.navbar .hor-menu.hor-menu-light .navbar-nav > li .dropdown-menu li > a:hover {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(240, 240, 240);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(119, 119, 119);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover, .page-sidebar {
+    background-color: rgb(61, 61, 61);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu, .page-sidebar .page-sidebar-menu {
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a, .page-sidebar .page-sidebar-menu > li > a {
+    border-top-color: rgb(77, 77, 77);
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: rgb(217, 217, 217);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > i, .page-sidebar .page-sidebar-menu > li > a > i {
+    color: rgb(136, 136, 136);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > i[class^="icon-"], .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > i[class*="icon-"], .page-sidebar .page-sidebar-menu > li > a > i[class^="icon-"], .page-sidebar .page-sidebar-menu > li > a > i[class*="icon-"] {
+    color: rgb(149, 149, 149);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > .arrow.open:before, .page-sidebar .page-sidebar-menu > li > a > .arrow:before, .page-sidebar .page-sidebar-menu > li > a > .arrow.open:before {
+    color: rgb(119, 119, 119);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:hover > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.open > a, .page-sidebar .page-sidebar-menu > li:hover > a, .page-sidebar .page-sidebar-menu > li.open > a {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(48, 48, 48);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(217, 217, 217);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:hover > a > i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.open > a > i, .page-sidebar .page-sidebar-menu > li:hover > a > i, .page-sidebar .page-sidebar-menu > li.open > a > i {
+    color: rgb(136, 136, 136);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:hover > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:hover > a > .arrow.open:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.open > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.open > a > .arrow.open:before, .page-sidebar .page-sidebar-menu > li:hover > a > .arrow:before, .page-sidebar .page-sidebar-menu > li:hover > a > .arrow.open:before, .page-sidebar .page-sidebar-menu > li.open > a > .arrow:before, .page-sidebar .page-sidebar-menu > li.open > a > .arrow.open:before {
+    color: rgb(136, 136, 136);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a, .page-sidebar .page-sidebar-menu > li.active > a, .page-sidebar .page-sidebar-menu > li.active.open > a {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(214, 70, 53);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border-top-color: rgba(0, 0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a:hover, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a:hover, .page-sidebar .page-sidebar-menu > li.active > a:hover, .page-sidebar .page-sidebar-menu > li.active.open > a:hover {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(214, 70, 53);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a > i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a > i, .page-sidebar .page-sidebar-menu > li.active > a > i, .page-sidebar .page-sidebar-menu > li.active.open > a > i {
+    color: rgb(255, 255, 255);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a > .arrow.open:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a > .arrow.open:before, .page-sidebar .page-sidebar-menu > li.active > a > .arrow:before, .page-sidebar .page-sidebar-menu > li.active > a > .arrow.open:before, .page-sidebar .page-sidebar-menu > li.active.open > a > .arrow:before, .page-sidebar .page-sidebar-menu > li.active.open > a > .arrow.open:before {
+    color: rgb(255, 255, 255);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active + li > a, .page-sidebar .page-sidebar-menu > li.active + li > a {
+    border-top-color: rgba(0, 0, 0, 0);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open + li > a, .page-sidebar .page-sidebar-menu > li.active.open + li > a {
+    border-top-color: rgb(77, 77, 77);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:last-child > a, .page-sidebar .page-sidebar-menu > li:last-child > a {
+    border-bottom-color: rgba(0, 0, 0, 0) !important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 1px !important;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li > a > .arrow.open:before, .page-sidebar .page-sidebar-menu li > a > .arrow:before, .page-sidebar .page-sidebar-menu li > a > .arrow.open:before {
+    color: rgb(119, 119, 119);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li:hover > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li:hover > a > .arrow.open:before, .page-sidebar .page-sidebar-menu li:hover > a > .arrow:before, .page-sidebar .page-sidebar-menu li:hover > a > .arrow.open:before {
+    color: rgb(136, 136, 136);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li.active > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li.active > a > .arrow.open:before, .page-sidebar .page-sidebar-menu li.active > a > .arrow:before, .page-sidebar .page-sidebar-menu li.active > a > .arrow.open:before {
+    color: rgb(255, 255, 255);
+}
+.page-sidebar-closed .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu:hover .sub-menu, .page-sidebar-closed .page-sidebar .page-sidebar-menu:hover .sub-menu {
+    background-color: rgb(61, 61, 61);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a, .page-sidebar .page-sidebar-menu .sub-menu > li > a {
+    color: rgb(189, 189, 189);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a > i, .page-sidebar .page-sidebar-menu .sub-menu > li > a > i {
+    color: rgb(119, 119, 119);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a > i[class^="icon-"], .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a > i[class*="icon-"], .page-sidebar .page-sidebar-menu .sub-menu > li > a > i[class^="icon-"], .page-sidebar .page-sidebar-menu .sub-menu > li > a > i[class*="icon-"] {
+    color: rgb(149, 149, 149);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a > .arrow.open:before, .page-sidebar .page-sidebar-menu .sub-menu > li > a > .arrow:before, .page-sidebar .page-sidebar-menu .sub-menu > li > a > .arrow.open:before {
+    color: rgb(119, 119, 119);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li:hover > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.open > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.active > a, .page-sidebar .page-sidebar-menu .sub-menu > li:hover > a, .page-sidebar .page-sidebar-menu .sub-menu > li.open > a, .page-sidebar .page-sidebar-menu .sub-menu > li.active > a {
+    background-attachment: scroll !important;
+    background-clip: border-box !important;
+    background-color: rgb(87, 87, 87) !important;
+    background-image: none !important;
+    background-origin: padding-box !important;
+    background-position: 0 0 !important;
+    background-repeat: repeat !important;
+    background-size: auto auto !important;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li:hover > a > i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.open > a > i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.active > a > i, .page-sidebar .page-sidebar-menu .sub-menu > li:hover > a > i, .page-sidebar .page-sidebar-menu .sub-menu > li.open > a > i, .page-sidebar .page-sidebar-menu .sub-menu > li.active > a > i {
+    color: rgb(187, 187, 187);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li:hover > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li:hover > a > .arrow.open:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.open > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.open > a > .arrow.open:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.active > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.active > a > .arrow.open:before, .page-sidebar .page-sidebar-menu .sub-menu > li:hover > a > .arrow:before, .page-sidebar .page-sidebar-menu .sub-menu > li:hover > a > .arrow.open:before, .page-sidebar .page-sidebar-menu .sub-menu > li.open > a > .arrow:before, .page-sidebar .page-sidebar-menu .sub-menu > li.open > a > .arrow.open:before, .page-sidebar .page-sidebar-menu .sub-menu > li.active > a > .arrow:before, .page-sidebar .page-sidebar-menu .sub-menu > li.active > a > .arrow.open:before {
+    color: rgb(136, 136, 136);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-toggler, .page-sidebar .sidebar-toggler {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("../../img/sidebar_inline_toggler_icon_default.jpg");
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search .input-group, .page-sidebar .sidebar-search .input-group {
+    border-bottom-color: rgb(77, 77, 77);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search .input-group .form-control, .page-sidebar .sidebar-search .input-group .form-control {
+    background-color: rgb(61, 61, 61);
+    color: rgb(97, 97, 97);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search .input-group .form-control::-moz-placeholder, .page-sidebar .sidebar-search .input-group .form-control::-moz-placeholder {
+    color: rgb(97, 97, 97);
+    opacity: 1;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search .input-group .input-group-btn .btn > i, .page-sidebar .sidebar-search .input-group .input-group-btn .btn > i {
+    color: rgb(97, 97, 97);
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search.sidebar-search-bordered .input-group, .page-sidebar .sidebar-search.sidebar-search-bordered .input-group {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom-color: rgb(77, 77, 77);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: rgb(77, 77, 77);
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: solid;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 1px;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: rgb(77, 77, 77);
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: solid;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 1px;
+    border-top-color: rgb(77, 77, 77);
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+.page-sidebar-closed .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search.open .input-group, .page-sidebar-closed .page-sidebar .sidebar-search.open .input-group {
+    background-color: rgb(61, 61, 61);
+}
+.page-sidebar-closed .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search.open .remove > i, .page-sidebar-closed .page-sidebar .sidebar-search.open .remove > i {
+    color: rgb(97, 97, 97);
+}
+.page-sidebar-closed .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search.sidebar-search-solid .input-group, .page-sidebar-closed .page-sidebar .sidebar-search.sidebar-search-solid .input-group {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search.sidebar-search-solid .input-group, .page-sidebar .sidebar-search.sidebar-search-solid .input-group {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(48, 48, 48);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border-bottom-color: rgb(48, 48, 48);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: rgb(48, 48, 48);
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: solid;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 1px;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: rgb(48, 48, 48);
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: solid;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 1px;
+    border-top-color: rgb(48, 48, 48);
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search.sidebar-search-solid .input-group .form-control, .page-sidebar .sidebar-search.sidebar-search-solid .input-group .form-control {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(48, 48, 48);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search.sidebar-search-solid.open .input-group, .page-sidebar .sidebar-search.sidebar-search-solid.open .input-group {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(61, 61, 61);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border-bottom-color: rgb(61, 61, 61);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: rgb(61, 61, 61);
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: solid;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 1px;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: rgb(61, 61, 61);
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: solid;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 1px;
+    border-top-color: rgb(61, 61, 61);
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-search.sidebar-search-solid.open .input-group .form-control, .page-sidebar .sidebar-search.sidebar-search-solid.open .input-group .form-control {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(61, 61, 61);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-quick-sidebar-wrapper {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(57, 57, 57);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(57, 57, 57);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-quick-sidebar-toggler {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(82, 82, 82);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-quick-sidebar-toggler:hover {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(74, 74, 74);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-quick-sidebar-toggler > i {
+    color: rgb(162, 162, 162);
+}
+.page-quick-sidebar-wrapper {
+    color: rgb(162, 162, 162);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar {
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li > a {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(82, 82, 82);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(154, 154, 154);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li > a:hover {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(69, 69, 69);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li.open > a {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(82, 82, 82);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(154, 154, 154);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li.active > a {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(57, 57, 57);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 0;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: none;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 0;
+    border-top-color: -moz-use-text-color;
+    border-top-style: none;
+    border-top-width: 0;
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li .dropdown-menu {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(82, 82, 82);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 0;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: none;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 0;
+    border-top-color: -moz-use-text-color;
+    border-top-style: none;
+    border-top-width: 0;
+    box-shadow: 5px 5px rgba(133, 133, 133, 0.1);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li .dropdown-menu:before {
+    border-bottom-color: rgb(82, 82, 82);
+    border-bottom-style: solid;
+    border-bottom-width: 7px;
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li .dropdown-menu:after {
+    border-bottom-color: rgb(82, 82, 82);
+    border-bottom-style: solid;
+    border-bottom-width: 7px;
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li .dropdown-menu > li > a {
+    color: rgb(162, 162, 162);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li .dropdown-menu > li > a:hover {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(90, 90, 90);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(162, 162, 162);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li .dropdown-menu > li.active > a {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(85, 85, 85);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(162, 162, 162);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-justified > li .dropdown-menu > li.divider {
+    background-color: rgb(90, 90, 90);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .list-heading {
+    color: rgb(123, 123, 123);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .list-items {
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .list-items > li {
+    border-bottom-color: rgb(64, 64, 64);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .list-items > li:hover {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(64, 64, 64);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-item {
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-item .page-quick-sidebar-nav .page-quick-sidebar-back-to-list {
+    color: rgb(154, 154, 154);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-chat .page-quick-sidebar-chat-users .media-list .media .media-body .media-heading-sub {
+    color: rgb(116, 116, 116);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-chat .page-quick-sidebar-chat-users .media-list .media .media-body .media-heading-small {
+    color: rgb(105, 105, 105);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-chat .page-quick-sidebar-chat-user .page-quick-sidebar-chat-user-messages .post .name {
+    color: rgb(144, 144, 144);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-chat .page-quick-sidebar-chat-user .page-quick-sidebar-chat-user-messages .post .datetime {
+    color: rgb(144, 144, 144);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-chat .page-quick-sidebar-chat-user .page-quick-sidebar-chat-user-messages .post .message {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(82, 82, 82);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: rgb(154, 154, 154);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-chat .page-quick-sidebar-chat-user .page-quick-sidebar-chat-user-messages .post.in .message .arrow {
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: rgb(82, 82, 82);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-chat .page-quick-sidebar-chat-user .page-quick-sidebar-chat-user-messages .post.out .message .arrow {
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: rgb(82, 82, 82);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-alerts .page-quick-sidebar-alerts-list .feeds li a {
+    color: rgb(139, 139, 139);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-alerts .page-quick-sidebar-alerts-list .feeds li a .desc {
+    -moz-text-decoration-color: -moz-use-text-color;
+    -moz-text-decoration-line: underline;
+    -moz-text-decoration-style: solid;
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-alerts .page-quick-sidebar-alerts-list .feeds li .desc {
+    color: rgb(133, 133, 133);
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar-alerts .page-quick-sidebar-alerts-list .feeds li .date {
+    color: rgb(105, 105, 105);
+}
+.page-footer .page-footer-inner {
+    color: rgb(163, 163, 163);
+}
+.page-footer .page-footer-tools .go-top {
+    background-color: rgb(79, 79, 79);
+}
+.page-footer .page-footer-tools .go-top:hover {
+    opacity: 0.7;
+}
+.page-footer .page-footer-tools .go-top i {
+    color: rgb(138, 138, 138);
+}
+.page-footer-fixed .page-footer {
+    background-color: rgb(43, 43, 43);
+}
+@media (min-width: 992px) {
+.page-sidebar-fixed:not(.page-footer-fixed) .page-content {
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+}
+.page-sidebar-fixed:not(.page-footer-fixed) .page-footer {
+    background-color: rgb(255, 255, 255);
+}
+.page-sidebar-fixed:not(.page-footer-fixed) .page-footer .page-footer-inner {
+    color: rgb(51, 51, 51);
+}
+.page-sidebar-fixed:not(.page-footer-fixed) .page-footer .page-footer-tools .go-top {
+    background-color: rgb(123, 131, 138);
+}
+.page-sidebar-fixed:not(.page-footer-fixed) .page-footer .page-footer-tools .go-top i {
+    color: rgb(221, 221, 221);
+}
+.page-boxed {
+    background-color: rgb(53, 53, 53) !important;
+}
+.page-boxed .page-container {
+    background-color: rgb(61, 61, 61);
+    border-bottom-color: rgb(77, 77, 77);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: rgb(77, 77, 77);
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: solid;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 1px;
+}
+.page-boxed.page-sidebar-reversed .page-container {
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 0;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: rgb(77, 77, 77);
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: solid;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 1px;
+}
+.page-boxed.page-sidebar-fixed .page-container {
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 0;
+}
+.page-boxed.page-sidebar-reversed.page-sidebar-fixed .page-container {
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 0;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: none;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 0;
+}
+.page-boxed.page-sidebar-fixed .page-sidebar {
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: rgb(77, 77, 77);
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: solid;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 1px;
+}
+.page-boxed.page-sidebar-reversed.page-sidebar-fixed .page-sidebar {
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 0;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: rgb(77, 77, 77);
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: solid;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 1px;
+}
+.page-boxed.page-sidebar-fixed.page-footer-fixed .page-footer {
+    background-color: rgb(53, 53, 53) !important;
+}
+.page-boxed.page-sidebar-fixed.page-footer-fixed .page-footer .page-footer-inner {
+    color: rgb(163, 163, 163);
+}
+}
+@media (max-width: 991px) {
+.page-sidebar {
+    background-color: rgb(43, 43, 43);
+}
+.page-sidebar .page-sidebar-menu > li > a {
+    border-top-color: rgb(61, 61, 61);
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+.page-sidebar .page-sidebar-menu > li:hover > a, .page-sidebar .page-sidebar-menu > li.open > a {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(36, 36, 36);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-sidebar .page-sidebar-menu > li:last-child > a {
+    border-bottom-color: -moz-use-text-color !important;
+    border-bottom-style: none !important;
+    border-bottom-width: 0 !important;
+}
+.page-sidebar .page-sidebar-menu > li .sub-menu {
+    background-color: rgb(43, 43, 43) !important;
+}
+.page-sidebar .page-sidebar-menu .sidebar-search input {
+    background-color: rgb(43, 43, 43) !important;
+}
+}
+@media (max-width: 480px) {
+.page-header.navbar {
+}
+.page-header.navbar .top-menu {
+    background-color: rgb(61, 61, 61);
+}
+.page-header-fixed-mobile .page-header.navbar .top-menu {
+    background-color: rgb(31, 31, 31);
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle {
+    background-color: rgb(54, 54, 54);
+}
+.page-header-fixed-mobile .page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle:hover {
+    background-color: rgb(51, 51, 51);
+}
+}

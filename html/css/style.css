@@ -1,0 +1,123 @@
+body {
+  padding-top: 40px;
+  background:#dcdfe5;
+  font-size:14px;
+  color:#4f4f4f;
+  font-family: 'varela_roundregular';
+}
+.ml { margin-right:10px;}
+@font-face {
+    font-family: 'varela_roundregular';
+    src: url('../fonts/VarelaRound-Regular-webfont.eot');
+    src: url('../fonts/VarelaRound-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/VarelaRound-Regular-webfont.woff2') format('woff2'),
+         url('../fonts/VarelaRound-Regular-webfont.woff') format('woff'),
+         url('../fonts/VarelaRound-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/VarelaRound-Regular-webfont.svg#varela_roundregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a, a:link, a:visited {
+    color: #ffa985;
+}
+a.link { color:#fff; margin-top:10px; }
+h4.panel-title a{ color:#999;}
+img { max-width:100%;}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.wrap { background:#fff; padding:40px;}
+.navbar-fixed-top, .navbar-fixed-bottom { position:inherit;}
+.navbar-inverse { background:none; border:none;}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus { color:#111; border-bottom: 1px solid #999;}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    border-bottom: 1px solid #999;
+    color: #111;
+	background:none;
+}
+
+.well hr { border-bottom:1px solid #999;}
+.hr {
+    background: none repeat scroll 0 0 #999;
+    display: inline-block;
+    height: 1px;
+    margin-top: 38px;
+    width: 100%;
+}
+
+.navbar-nav { margin-top:50px;}
+.navbar-nav > li > a { padding:0; line-height: 20px;
+}
+.navbar-nav > li { padding:10px 15px;}
+
+.padding_bottom { padding-bottom:19px;}
+
+.margin_botttom { margin-bottom:38px;}
+
+.border_bottom { border-bottom:2px solid #bababa;}
+.invest { color: #7284b6; padding:10px 25px; border-radius:300px; font-size:18px; background-color: transparent;
+    border-style: solid;
+    border-width: 2px;
+    transition: background-color 0.1s linear 0s;
+	 font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 25px 46px;
+    text-transform: uppercase;
+	}
+.page-header { margin-top:0;}	
+.navbar-inverse .navbar-toggle .icon-bar { background:#333;}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus { background:#999999;}
+.system_button { 
+	border-radius: 300px; 
+	transition: opacity 0.1s linear 0s;
+	font-style: normal;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+	 background-color: #103c8e;
+    border-color: #103c8e;
+    color: #fff;
+	font-size: 14px;
+}
+.button_blue { 
+	background-color: #103c8e;
+	border-radius: 300px; 
+	letter-spacing: 1px;
+    text-transform: uppercase;  
+	border-color: #103c8e;
+    color: #fff;
+	font-size: 14px;
+}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus { background:none; color:#000;}
+.form-horizontal .control-label { padding-top:0;}
+.edit { margin:15px; position:absolute; right:15px; display:inline-block; z-index:1;}
+.list a { color:#000;}
+
+@media screen and (min-width:767px) and (max-width:992px) {
+	.invest { margin-bottom:15px;}
+	a.link { margin-bottom:25px;}
+}
+@media screen and (max-width:767px) {
+	.wrap { padding-left:15px; padding-right:15px; padding-top:15px;}
+	.pull-right {
+    	float: none !important;
+	}
+	.navbar-nav { margin-top:auto; }
+	.navbar, p.margin_botttom {margin-bottom:0;}
+	.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus { border:none;}
+	.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus { border-bottom: none;}
+	.navbar-inverse .navbar-nav > li > a { text-align:center;}
+	.navbar-nav > li {
+    	padding: 10px 15px 0;
+	}
+	.hr, hr { margin-bottom:5px; margin-top:auto; height:1px;}
+	p.text-center, p { text-align:justify;}
+	.invest { margin-bottom:15px;}
+	a.link { margin-bottom:25px;}
+}
